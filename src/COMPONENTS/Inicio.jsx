@@ -8,7 +8,7 @@ const Inicio = () => {
           <div className="presentation">
             <h1>Full Stack Developer</h1>
             {/* <p>¡Hola! Soy un desarrollador web full stack con experiencia en "HTML", CSS, JavaScript, React, Git y npm.</p> */}
-            <p> Hello! I am a full stack web developer with experience in HTML, CSS, JavaScript, React, Git, and npm.</p>
+            <p> Hello! I am a full stack web developer with experience in "HTML", CSS, JavaScript, React, Git, and npm.</p>
           </div>
 
           
