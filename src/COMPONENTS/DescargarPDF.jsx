@@ -1,7 +1,7 @@
 import React from 'react'
 import "./STYLES/CSS_DescargarPDF.css"
 const DescargarPDF = () => {
-   const urlPDF = '/public/pdf/CV_Hernan Gabriel Stagni Español 2 .pdf'; // Reemplaza esto con la ruta real de tu archivo PDF
+   const urlPDF = '/pdf/CV_Hernan Gabriel Stagni Español 2 .pdf'; // Reemplaza esto con la ruta real de tu archivo PDF
   
 
     return (
