@@ -1,12 +1,12 @@
 import React from 'react'
-
+import "./STYLES/CSS_DescargarPDF.css"
 const DescargarPDF = () => {
    const urlPDF = '/public/pdf/CV_Hernan Gabriel Stagni Español 2 .pdf'; // Reemplaza esto con la ruta real de tu archivo PDF
   
 
     return (
-    <div>
-       <h3>Currículum Vitae</h3>
+    <div className='container_general'>
+       <h3>Mi CV</h3>
        
        <a href={urlPDF} target="_blank">
           <button>Ver CV</button>
