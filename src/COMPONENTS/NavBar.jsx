@@ -10,7 +10,7 @@ const NavBar = () => {
             <li><a href="#sobre-mi">Sobre Mí</a></li>
             <li><a href="#proyects">Proyectos</a></li>
             <li><a href="#contacto">Contacto</a></li>
-            <li><a href="#contacto">abrir CV</a></li>
+      
            
           </ul>
         </nav>
