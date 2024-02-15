@@ -1,5 +1,5 @@
 #inicio {
-    background-color:black;
+    background-color:rgb(241, 230, 230);
     background-image: URL('/img/fondo\ teclado_Movile_Tecnología\ y\ Gaming\ Sencillo\ Azul\ Oscuro.png');
         height: 100vh;
     background-repeat: no-repeat;
@@ -59,6 +59,12 @@ font-size: 2.0rem;
           transform: rotate(0deg);
      
         }
+        20%{
+          transform: rotate(-220deg);
+        }
+        70%{
+          transform: rotate(-300deg);
+        }
       to {
           transform: rotate(360deg);
               
@@ -74,7 +80,7 @@ font-size: 2.0rem;
       /* background-color:rgb(207, 191, 191); */
  
       margin-top: -30%; 
-      animation: rotacion 5s linear infinite; 
+      animation: rotacion 8s linear infinite; 
 
   }
   

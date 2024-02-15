@@ -13,7 +13,7 @@ const FormContact = ({setShowForm, handleShowForm}) => {
     <div className="form__container">
       <header className="form__header">
            <h2>Gracias por contactarte, me comunicaré a la brevedad...!</h2>
-           <DescargarPDF/>
+           
            
            <button onClick={handleShowForm} className="buttonClose"> ❌</button>
       </header>     
