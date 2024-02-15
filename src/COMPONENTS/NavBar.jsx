@@ -1,6 +1,6 @@
 import React from 'react'
 import './STYLES/CSS_NavBar.css'
-import DescargarPDF from './DescargarPDF';
+
 
 const NavBar = () => {
     return (
@@ -11,7 +11,7 @@ const NavBar = () => {
             <li><a href="#proyects">Proyectos</a></li>
             <li><a href="#contacto">Contacto</a></li>
             <li><a href="#contacto">abrir CV</a></li>
-            <DescargarPDF/>
+           
           </ul>
         </nav>
       );

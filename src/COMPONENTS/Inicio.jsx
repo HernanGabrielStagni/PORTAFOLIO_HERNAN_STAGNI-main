@@ -1,6 +1,6 @@
 import React from 'react'
 import './STYLES/CSS_Inicio.css'
-
+import DescargarPDF from './DescargarPDF';
 const Inicio = () => {
     return (
         <section id="inicio">
@@ -15,7 +15,7 @@ const Inicio = () => {
          <div className="imagen">
             <img src="/img/teorianudos-euler.gif" alt="img programer"  />
           </div> 
-
+          <DescargarPDF/>
        </section>
       );
 }

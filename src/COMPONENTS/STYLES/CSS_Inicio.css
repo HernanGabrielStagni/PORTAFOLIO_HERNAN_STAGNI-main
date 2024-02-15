@@ -59,9 +59,9 @@ font-size: 2.0rem;
           transform: rotate(0deg);
      
         }
-        20%{
-          transform: rotate(-220deg);
-        }
+        /* 20%{
+          transform: rotate(90deg);
+        } */
         70%{
           transform: rotate(-300deg);
         }
