@@ -1,6 +1,5 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
-import viteLogo from "/vite.svg";
+
 //portafolio-hernan-stagni.netlify.app
 //https://github.com/HernanGabrielStagni/PORTAFOLIO_HERNAN_STAGNI.git
 
@@ -29,10 +28,10 @@ function App() {
 
 
   return (
-    <main>
-      <NavBar />
-      <Inicio />
-      <SobreMi />
+    <main className="app">
+      <NavBar/>
+      <Inicio/>
+      <SobreMi/>
       {/* <ModalLinks /> */}
       {/* <Medusa/> */}
       <Proyects/>

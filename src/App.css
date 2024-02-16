@@ -1,7 +1,11 @@
 .app{
-  background-color: rgba(228, 219, 219, 0.782);
-  /* height: 100vh; */
+  background-color: rgba(226, 130, 130, 0.782);
+
   box-sizing: border-box;
+  width: 180%;
+  margin: 0;
+  padding: 0;
+  gap: 0;
 
 }
 .contact_me{
